@@ -8,13 +8,21 @@ Describir y analizar información estructurada con formato de matriz de datos, u
 Continuar de manera autogestiva la exploración de las posibilidades del ecosistema R, aplicado a los
 propios problemas de investigación
 Contenidos
-Parte I: Preliminares
-Instalación local de R y RStudio
-Uso de RStudio en la nube
-Creación de un proyecto R
-Script, consola, entorno, paquetes y ayudas
-Escribir y ejecutar comandos
-Clases de objeto y sus atributos
+
+### Parte I: Preliminares
+
++ Instalación local de R y RStudio
+
++ Uso de RStudio en la nube
+
++ Creación de un proyecto R
+
++ Script, consola, entorno, paquetes y ayudas
+
++ Escribir y ejecutar comandos
+
++ Clases de objeto y sus atributos
+
 Parte II: Los datos
 Encuesta Permanente de Hogares
 Población de referencia
